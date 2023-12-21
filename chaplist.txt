@@ -1,0 +1,185 @@
+01
+	Introduction
+	Atomic and Molecular Mass
+	Work and Energy
+	Units and Conversions
+	Simple Machines
+	Buoyancy
+	Heat
+02
+	Cognitive Biases 1
+	Basic Statistics
+	Basic Statistics in Spreadsheets
+03
+	Introduction to Electricity
+	DC Circuit Analysis
+	Charge
+	Fertilizer
+	Concrete
+	Metals
+04
+	Angles
+	Introduction to Triangles
+	Pythagorean Theorem
+	Congruence
+	Parallel and Perpendicular
+	Circles
+05
+	Vectors
+	Momentum
+	The Dot Product
+	Functions and Their Graphs
+06
+	Volumes of Common Solids
+	Conic Sections
+07
+	Falling Bodies
+	Solving Quadratics
+	Complex Numbers
+08
+	Introduction to Spreadsheets
+	Compound Interest
+	Introduction to Data Visualization
+09
+	Exponents
+	Exponential Decay
+	Logarithms
+10
+	Trigometric Functions
+	Transforming Functions
+11
+	Sound
+	Alternating Current
+	Drag
+	Vector-valued Functions
+	Circular Motion
+	Orbits
+12
+	Electromagnetic Waves
+	How Cameras Work
+	How Eyes Work
+	Reflection
+	Refraction
+	Lenses
+	Images in Python
+13
+	Introduction to Polynomials
+	Python Lists
+	Adding and Subtracting Polynomials
+	Multiplying Polynomials
+	Multiplying Polynomials in Python
+14
+	Differentiating Polynomials
+	Python Classes
+	Common Polynomial Products
+	Factoring Polynomials
+15
+	Practice with Polynomials
+	Graphing Polynomials
+	Interpolating with Polynomials
+16
+	Limits
+	Rational Functions
+17
+	Differentiation
+	Derivatives
+	Rules for Finding Derivatives
+	Optimization
+18
+	Implicit Differentiation
+	Related Rates
+	Multivariate Functions
+	Partial Derivatives and Gradients
+19
+	Vectors and Matrices
+	Linear Combinations
+	Vector Spans and Independence
+	Matrices
+20
+	Projections
+	The Gram-Schmidt Process
+	Eigenvectors and Eigenvalues
+	Singular Value Decomposition
+21
+	Data Tables and pandas
+	Data tables in SQL
+	Representing Natural Numbers
+22
+	Making Web Requests with HTTP
+	Using and Creating APIs
+	Data Compression and Decompression
+	Dealing with JSON and XML
+	HTML
+	Introduction to Text
+	Stop Words
+	Stemming and Lemmatization
+	Alphabets and Accents
+23
+	Making Plots with matplotlib
+	Geographical Data
+	Longitude and Latitude
+	Geocoding and Reverse Geocoding
+	Making a Map
+24
+	Introduction to Discrete Probability
+	Beginning Combinatorics
+	Permutations and Sorting
+25
+	Conditional Probability
+	Bayes' Theorem
+26
+	Definite Integrals
+	Antiderivatives
+	The Fundamental Theorem of Calculus
+	The Physics of Gases
+27
+	u-Substitution
+	Differential Equations
+28
+	Continuous Probability Distributions
+	The Normal Distribution
+	Poisson and Exponential Probability Distributions
+29
+	Multiple Integrals
+	Multivariate Distributions
+	The Multivariate Normal Distribution
+30
+	Sets and Logic
+	Linked Lists
+	Trees
+	Searching Trees
+	Hash Tables
+	Sorting Algorithms
+31
+	Introduction to Graphs
+	Dijkstra's Algorithm
+	Binary Search
+	Other Graph Algorithms
+	Bayesian Networks
+32
+	Introduction to Classification and Regression
+	Simple Linear Regression
+	Simple Logistic Regression
+	Standardizing Data
+	One-Hot Encoding
+	Multiple Logistic Regression
+33
+	The Training/Validation/Testing Process
+	Evaluating Classification Systems
+	Evaluation Binary Classifiers
+	The k-Nearest Neighbor Classifier
+	Naive Bayes Classifier
+34
+	Evaluating the Fit of a Linear Regression Model
+	Linear Regression and Gradient Descent
+	Generalized Linear Models
+	Link Functions
+35
+	Decision Trees for Classification
+	Bagging and Random Forests
+	Boosting
+	Clustering using k-Means
+36
+	Neural Nets for Regression
+	Neural Networks for Classification
+	Deep Learning
